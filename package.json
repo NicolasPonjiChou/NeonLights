@@ -1,0 +1,19 @@
+{
+  "name": "neonlights",
+  "version": "1.0.0",
+  "description": "![Under Neon Lights](http://cdn1.with.in/541-CHEM_BROS/images/ChemBros_486x256_Main.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasPonjiChou/NeonLights.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasPonjiChou/NeonLights/issues"
+  },
+  "homepage": "https://github.com/NicolasPonjiChou/NeonLights#readme"
+}
