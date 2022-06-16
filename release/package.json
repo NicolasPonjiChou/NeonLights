@@ -10756,5 +10756,8 @@
 			47,
 			true
 		]
-	]
+	],
+	"dependencies": {
+		"package": "^1.0.1"
+	}
 }
