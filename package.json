@@ -374,7 +374,7 @@
 				"resize();",
 				"",
 				"var isLocal = /localhost/i.test(window.location.href);",
-				"var root = FRAME.getResource( 'root' ) || ( isLocal ? '../assets' : '//nicolasponjichou.github.io/NeonLights/assets' );",
+				"var root = FRAME.getResource( 'root' ) || ( isLocal ? '../assets' : '//gzcdn.with.in/541-CHEM_BROS/assets' );",
 				"",
 				"var fbxLoader = new THREE.FBXLoader();",
 				"var objectLoader = new THREE.ObjectLoader();",
@@ -7361,6 +7361,198 @@
 				"",
 				"}"
 			]
+		],
+		[
+			"Effect",
+			[
+				"var parameters = {",
+				"\tvalue: new FRAME.Parameters.Float( 'Value', 1.0 )",
+				"};",
+				"",
+				"// function init(){}",
+				"",
+				"function start(){}",
+				"",
+				"function end(){}",
+				"",
+				"function update( progress ){}"
+			]
+		],
+		[
+			"Effect",
+			[
+				"var parameters = {",
+				"\tvalue: new FRAME.Parameters.Float( 'Value', 1.0 )",
+				"};",
+				"",
+				"// function init(){}",
+				"",
+				"function start(){}",
+				"",
+				"function end(){}",
+				"",
+				"function update( progress ){}"
+			]
+		],
+		[
+			"Effect",
+			[
+				"var parameters = {",
+				"\tvalue: new FRAME.Parameters.Float( 'Value', 1.0 )",
+				"};",
+				"",
+				"// function init(){}",
+				"",
+				"function start(){}",
+				"",
+				"function end(){}",
+				"",
+				"function update( progress ){}"
+			]
+		],
+		[
+			"Effect",
+			[
+				"var parameters = {",
+				"\tvalue: new FRAME.Parameters.Float( 'Value', 1.0 )",
+				"};",
+				"",
+				"// function init(){}",
+				"",
+				"function start(){}",
+				"",
+				"function end(){}",
+				"",
+				"function update( progress ){}"
+			]
+		],
+		[
+			"Effect",
+			[
+				"var parameters = {",
+				"\tvalue: new FRAME.Parameters.Float( 'Value', 1.0 )",
+				"};",
+				"",
+				"// function init(){}",
+				"",
+				"function start(){}",
+				"",
+				"function end(){}",
+				"",
+				"function update( progress ){}"
+			]
+		],
+		[
+			"Effect",
+			[
+				"var parameters = {",
+				"\tvalue: new FRAME.Parameters.Float( 'Value', 1.0 )",
+				"};",
+				"",
+				"// function init(){}",
+				"",
+				"function start(){}",
+				"",
+				"function end(){}",
+				"",
+				"function update( progress ){}"
+			]
+		],
+		[
+			"Effect",
+			[
+				"var parameters = {",
+				"\tvalue: new FRAME.Parameters.Float( 'Value', 1.0 )",
+				"};",
+				"",
+				"// function init(){}",
+				"",
+				"function start(){}",
+				"",
+				"function end(){}",
+				"",
+				"function update( progress ){}"
+			]
+		],
+		[
+			"Effect",
+			[
+				"var parameters = {",
+				"\tvalue: new FRAME.Parameters.Float( 'Value', 1.0 )",
+				"};",
+				"",
+				"// function init(){}",
+				"",
+				"function start(){}",
+				"",
+				"function end(){}",
+				"",
+				"function update( progress ){}"
+			]
+		],
+		[
+			"Effect",
+			[
+				"var parameters = {",
+				"\tvalue: new FRAME.Parameters.Float( 'Value', 1.0 )",
+				"};",
+				"",
+				"// function init(){}",
+				"",
+				"function start(){}",
+				"",
+				"function end(){}",
+				"",
+				"function update( progress ){}"
+			]
+		],
+		[
+			"Effect",
+			[
+				"var parameters = {",
+				"\tvalue: new FRAME.Parameters.Float( 'Value', 1.0 )",
+				"};",
+				"",
+				"// function init(){}",
+				"",
+				"function start(){}",
+				"",
+				"function end(){}",
+				"",
+				"function update( progress ){}"
+			]
+		],
+		[
+			"Effect",
+			[
+				"var parameters = {",
+				"\tvalue: new FRAME.Parameters.Float( 'Value', 1.0 )",
+				"};",
+				"",
+				"// function init(){}",
+				"",
+				"function start(){}",
+				"",
+				"function end(){}",
+				"",
+				"function update( progress ){}"
+			]
+		],
+		[
+			"Effect",
+			[
+				"var parameters = {",
+				"\tvalue: new FRAME.Parameters.Float( 'Value', 1.0 )",
+				"};",
+				"",
+				"// function init(){}",
+				"",
+				"function start(){}",
+				"",
+				"function end(){}",
+				"",
+				"function update( progress ){}"
+			]
 		]
 	],
 	"animations": [
@@ -7443,6 +7635,102 @@
 			11,
 			41,
 			false
+		],
+		[
+			"Animation",
+			0.59375,
+			2.59375,
+			0,
+			100,
+			true
+		],
+		[
+			"Animation",
+			0.78125,
+			2.78125,
+			0,
+			99,
+			true
+		],
+		[
+			"Animation",
+			1.34375,
+			3.34375,
+			0,
+			92,
+			true
+		],
+		[
+			"Animation",
+			1.875,
+			3.875,
+			0,
+			97,
+			true
+		],
+		[
+			"Animation",
+			1.96875,
+			3.96875,
+			0,
+			93,
+			true
+		],
+		[
+			"Animation",
+			1.96875,
+			3.96875,
+			0,
+			98,
+			true
+		],
+		[
+			"Animation",
+			2.25,
+			4.25,
+			0,
+			94,
+			true
+		],
+		[
+			"Animation",
+			4.125,
+			6.125,
+			0,
+			89,
+			true
+		],
+		[
+			"Animation",
+			4.125,
+			6.125,
+			0,
+			90,
+			true
+		],
+		[
+			"Animation",
+			4.65625,
+			6.65625,
+			0,
+			91,
+			true
+		],
+		[
+			"Animation",
+			5.0625,
+			7.0625,
+			0,
+			96,
+			true
+		],
+		[
+			"Animation",
+			5.875,
+			7.875,
+			0,
+			95,
+			true
 		],
 		[
 			"Fog 1-2",
@@ -8671,7 +8959,7 @@
 		[
 			"AH",
 			57.38099025963841,
-			57.83624534950841,
+			58.86749534950841,
 			9,
 			8,
 			true
@@ -9109,19 +9397,19 @@
 			true
 		],
 		[
+			"C",
+			63.089356791039265,
+			65.27661048449531,
+			9,
+			9,
+			true
+		],
+		[
 			"O",
 			63.09335941058962,
 			63.120606791039265,
 			9,
 			6,
-			true
-		],
-		[
-			"C",
-			63.120606791039265,
-			65.30786048449531,
-			9,
-			9,
 			true
 		],
 		[
@@ -9557,6 +9845,14 @@
 			true
 		],
 		[
+			"Neon Stage 2",
+			71.5,
+			72.34375,
+			3,
+			56,
+			true
+		],
+		[
 			"Bird Release",
 			72.5,
 			74,
@@ -9565,11 +9861,11 @@
 			true
 		],
 		[
-			"Neon Stage 2",
-			72.65625,
-			73.5,
+			"Hug Bear",
+			72.90625,
+			75.28125,
 			3,
-			56,
+			83,
 			true
 		],
 		[
@@ -9578,14 +9874,6 @@
 			73.6,
 			9,
 			8,
-			true
-		],
-		[
-			"Annie Hallway Walk",
-			73.55,
-			75.5,
-			3,
-			27,
 			true
 		],
 		[
@@ -9613,6 +9901,14 @@
 			true
 		],
 		[
+			"Annie Hallway Walk",
+			75.2375,
+			80.4375,
+			3,
+			27,
+			true
+		],
+		[
 			"C",
 			77.25152439024396,
 			77.76305731931308,
@@ -9629,19 +9925,19 @@
 			true
 		],
 		[
+			"Annie Moves to Bedroom",
+			80.34375,
+			82.6875,
+			6,
+			33,
+			true
+		],
+		[
 			"Bedroom Scene",
 			80.75,
 			93.75,
 			3,
 			32,
-			true
-		],
-		[
-			"Annie Moves to Bedroom",
-			80.75,
-			88.5,
-			6,
-			33,
 			true
 		],
 		[
@@ -9674,14 +9970,6 @@
 			89.04643662416197,
 			9,
 			59,
-			true
-		],
-		[
-			"Hug Bear",
-			88,
-			93.75,
-			7,
-			83,
 			true
 		],
 		[
